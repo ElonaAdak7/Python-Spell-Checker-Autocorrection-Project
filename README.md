@@ -4,9 +4,9 @@
 This project utilizes various Python libraries to implement spell checking and autocorrection functionalities. It demonstrates how to correct misspelled words in sentences, check spelling within lists, and utilize autocorrect capabilities.
 
 # Features
-  - **Spell Checking** : Corrects individual misspelled words using TextBlob and autocorrect libraries.
-  - **List Spell Check** : Checks and suggests corrections for misspelled words within lists using SpellChecker.
-  - **Autocorrection** : Implements autocorrection of words using the autocorrect library.
+  - **Spell Checking** : Corrects individual misspelled words using `TextBlob` and `autocorrect` libraries.
+  - **List Spell Check** : Checks and suggests corrections for misspelled words within lists using `SpellChecker`.
+  - **Autocorrection** : Implements autocorrection of words using the `autocorrect` library.
   - **Sentence Correction** : Corrects entire sentences for spelling errors and prints the corrected sentence.
 
 # Explanation
